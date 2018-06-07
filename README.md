@@ -5,6 +5,11 @@
     ![avatar](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
 ---
 
+### 使用
+    - 引入moveSort组件
+    - 传入headerList（表头），list（数据源）
+    - 拖动后的回调move
+
 ### 原理 用了H5的drag API
     1. 给元素绑定拖拽事件,draggable=true
     ```
