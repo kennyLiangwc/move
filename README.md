@@ -2,7 +2,9 @@
 
 ---
     先看效果图
-    ![GitHub](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
+    ![image](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
+    
+    ![image](http://github.com/kennyLiangwc/move/image/tuodong.gif)
 ---
 
 ### 使用
