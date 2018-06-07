@@ -2,7 +2,7 @@
 
 ---
     先看效果图
-    ![效果图](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
+    ![GitHub](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
 ---
 
 ### 使用
