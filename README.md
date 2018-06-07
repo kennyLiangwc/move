@@ -4,7 +4,7 @@
     先看效果图
     ![image](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
     
-    ![image](http://github.com/kennyLiangwc/move/image/tuodong.gif)
+    ![image]('./image/tuodong.gif')
 ---
 
 ### 使用
