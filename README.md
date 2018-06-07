@@ -1,11 +1,10 @@
 # react 拖动排序组件
 
----
-    先看效果图
-    ![image](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
-    
-    ![image]('./image/tuodong.gif')
----
+
+## 先看效果图
+![image](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
+
+
 
 ### 使用
 - 引入moveSort组件
