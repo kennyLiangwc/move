@@ -5,9 +5,6 @@
     ![GitHub](http://p94d2qxd7.bkt.clouddn.com/tuodong.gif)
 ---
 
-    <img src="http://p94d2qxd7.bkt.clouddn.com/tuodong.gif" />
-
-
 ### 使用
 - 引入moveSort组件
 - 传入headerList（表头），list（数据源）
